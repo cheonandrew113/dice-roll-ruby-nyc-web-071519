@@ -4,4 +4,5 @@
 
 def rolls(int = 1..6)
   rand.int
+  return rolls
 end
