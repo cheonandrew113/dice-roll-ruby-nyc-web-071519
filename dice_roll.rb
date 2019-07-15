@@ -4,5 +4,5 @@
 
 def roll
   range = (1..6)
-  range.random
+  rand.range
 end
