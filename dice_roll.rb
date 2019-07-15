@@ -3,7 +3,7 @@
 # Feel free to google "how to generate a random number in ruby"
 
 def roll
-  rolls=[1..6]
+  rolls << roll[1..6]
   rand.rolls
   return rolls
 end
