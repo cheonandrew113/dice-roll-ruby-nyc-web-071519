@@ -4,5 +4,5 @@
 
 def roll(numbers)
   numbers = (1..6)
-  rand.range
+  rand.numbers
 end
